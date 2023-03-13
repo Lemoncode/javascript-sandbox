@@ -6,6 +6,6 @@ Pasos:
 
 - Clonate el proyecto.
 - Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm start`.
+- Ejecuta el sandbox con `npm run dev`.
 - Abre el navegador en `http://localhost:8080/`.
 - Puedes empezar a meter tu código en el fichero:
